@@ -1,4 +1,4 @@
-package com.example.btgkapptonghop;
+package com.example.recycleview;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -11,6 +11,7 @@ import androidx.constraintlayout.utils.widget.ImageFilterView;
 import androidx.recyclerview.widget.RecyclerView;
 
 import java.util.ArrayList;
+import java.util.List;
 
 public class ItemRecycleAdapter extends RecyclerView.Adapter<ItemRecycleAdapter.ViewHolder> {
 
@@ -26,7 +27,7 @@ public class ItemRecycleAdapter extends RecyclerView.Adapter<ItemRecycleAdapter.
     @Override
     public ViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
         LayoutInflater inflater = LayoutInflater.from(parent.getContext());
-        View itemview = inflater.inflate(R.layout.item,parent,false);
+        View itemview = inflater.inflate(R.layout.itemngang,parent,false);
         return new ViewHolder(itemview);
     }
 

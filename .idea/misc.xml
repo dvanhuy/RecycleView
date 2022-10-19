@@ -3,44 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/AndroidJava/BTGKAppTongHop/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1675" />
-        <entry key="..\:/AndroidJava/BTGKAppTongHop/app/src/main/res/drawable-v24/list_bg_edittext.xml" value="0.1675" />
-        <entry key="..\:/AndroidJava/BTGKAppTongHop/app/src/main/res/drawable-v24/list_bgdialog.xml" value="0.1675" />
-        <entry key="..\:/AndroidJava/BTGKAppTongHop/app/src/main/res/drawable-v24/profile_ic_logout.xml" value="0.1675" />
-        <entry key="..\:/AndroidJava/BTGKAppTongHop/app/src/main/res/drawable/homepage_bg_avata_find.xml" value="0.1675" />
-        <entry key="..\:/AndroidJava/BTGKAppTongHop/app/src/main/res/drawable/homepage_bg_banner.xml" value="0.1675" />
-        <entry key="..\:/AndroidJava/BTGKAppTongHop/app/src/main/res/drawable/homepage_bg_content.xml" value="0.1675" />
-        <entry key="..\:/AndroidJava/BTGKAppTongHop/app/src/main/res/drawable/homepage_divider.xml" value="0.1675" />
-        <entry key="..\:/AndroidJava/BTGKAppTongHop/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1675" />
-        <entry key="..\:/AndroidJava/BTGKAppTongHop/app/src/main/res/drawable/list_bg_avatar.xml" value="0.1675" />
-        <entry key="..\:/AndroidJava/BTGKAppTongHop/app/src/main/res/drawable/list_bgdialog.xml" value="0.1675" />
-        <entry key="..\:/AndroidJava/BTGKAppTongHop/app/src/main/res/drawable/list_bgitem.xml" value="0.1675" />
-        <entry key="..\:/AndroidJava/BTGKAppTongHop/app/src/main/res/drawable/list_borderbottom.xml" value="0.1675" />
-        <entry key="..\:/AndroidJava/BTGKAppTongHop/app/src/main/res/drawable/list_borderbtadd.xml" value="0.1675" />
-        <entry key="..\:/AndroidJava/BTGKAppTongHop/app/src/main/res/drawable/list_bordertop.xml" value="0.1675" />
-        <entry key="..\:/AndroidJava/BTGKAppTongHop/app/src/main/res/drawable/list_divider.xml" value="0.1675" />
-        <entry key="..\:/AndroidJava/BTGKAppTongHop/app/src/main/res/drawable/navigation_ic_home.xml" value="0.1675" />
-        <entry key="..\:/AndroidJava/BTGKAppTongHop/app/src/main/res/drawable/profile_bg_des.xml" value="0.1675" />
-        <entry key="..\:/AndroidJava/BTGKAppTongHop/app/src/main/res/drawable/profile_bg_gradient_header.xml" value="0.1675" />
-        <entry key="..\:/AndroidJava/BTGKAppTongHop/app/src/main/res/drawable/profile_bg_info.xml" value="0.1675" />
-        <entry key="..\:/AndroidJava/BTGKAppTongHop/app/src/main/res/drawable/profile_borderleft.xml" value="0.1675" />
-        <entry key="..\:/AndroidJava/BTGKAppTongHop/app/src/main/res/drawable/profile_ic_key.xml" value="0.1675" />
-        <entry key="..\:/AndroidJava/BTGKAppTongHop/app/src/main/res/drawable/profile_ic_logout.xml" value="0.1675" />
-        <entry key="..\:/AndroidJava/BTGKAppTongHop/app/src/main/res/drawable/profile_ic_mail.xml" value="0.1675" />
-        <entry key="..\:/AndroidJava/BTGKAppTongHop/app/src/main/res/drawable/profile_ic_phonelink.xml" value="0.1675" />
-        <entry key="..\:/AndroidJava/BTGKAppTongHop/app/src/main/res/drawable/profile_ic_web.xml" value="0.1675" />
-        <entry key="..\:/AndroidJava/BTGKAppTongHop/app/src/main/res/layout/activity_home.xml" value="0.2359375" />
-        <entry key="..\:/AndroidJava/BTGKAppTongHop/app/src/main/res/layout/activity_homepage.xml" value="0.25" />
-        <entry key="..\:/AndroidJava/BTGKAppTongHop/app/src/main/res/layout/dialog_additem.xml" value="0.25" />
-        <entry key="..\:/AndroidJava/BTGKAppTongHop/app/src/main/res/layout/fragment_home.xml" value="0.25" />
-        <entry key="..\:/AndroidJava/BTGKAppTongHop/app/src/main/res/layout/fragment_list.xml" value="0.25" />
-        <entry key="..\:/AndroidJava/BTGKAppTongHop/app/src/main/res/layout/fragment_notification.xml" value="0.25" />
-        <entry key="..\:/AndroidJava/BTGKAppTongHop/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
-        <entry key="..\:/AndroidJava/BTGKAppTongHop/app/src/main/res/layout/item.xml" value="0.25" />
-        <entry key="..\:/AndroidJava/BTGKAppTongHop/app/src/main/res/layout/itemngang.xml" value="0.24895833333333334" />
-        <entry key="..\:/AndroidJava/BTGKAppTongHop/app/src/main/res/layout/switch_item.xml" value="0.25" />
-        <entry key="..\:/AndroidJava/BTGKAppTongHop/app/src/main/res/menu/bottom_nav_menu.xml" value="0.24895833333333334" />
-        <entry key="..\:/AndroidJava/BTGKAppTongHop/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1675" />
+        <entry key="..\:/AndroidJava/RecycleView/app/src/main/res/drawable/backgravatar.xml" value="0.1535" />
+        <entry key="..\:/AndroidJava/RecycleView/app/src/main/res/drawable/backgroundadd.xml" value="0.1675" />
+        <entry key="..\:/AndroidJava/RecycleView/app/src/main/res/drawable/backitemlist.xml" value="0.1675" />
+        <entry key="..\:/AndroidJava/RecycleView/app/src/main/res/drawable/borderbotom.xml" value="0.1675" />
+        <entry key="..\:/AndroidJava/RecycleView/app/src/main/res/drawable/ic_baseline_chevron_left_24_black.xml" value="0.1675" />
+        <entry key="..\:/AndroidJava/RecycleView/app/src/main/res/drawable/separator_line.xml" value="0.2185" />
+        <entry key="..\:/AndroidJava/RecycleView/app/src/main/res/font/d.xml" value="0.2791666666666667" />
+        <entry key="..\:/AndroidJava/RecycleView/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/AndroidJava/RecycleView/app/src/main/res/layout/item.xml" value="0.25" />
+        <entry key="..\:/AndroidJava/RecycleView/app/src/main/res/layout/itemngang.xml" value="0.25" />
       </map>
     </option>
   </component>
